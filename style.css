@@ -1,5 +1,5 @@
 /*
-Theme Name: Project 2 THEME
+Theme Name: WP Theme 1
 Theme URI: https://wordpress.org/themes/twentyseventeen/
 Author: the WordPress team
 Author URI: https://wordpress.org/
@@ -464,8 +464,8 @@ h2.hero-text {
     background-color: #000!important;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
     position: static;
     margin-bottom: 150px;
     text-align: center;
