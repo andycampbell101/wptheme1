@@ -462,7 +462,10 @@ h2,
 h2.hero-text {
     color:#fff!important;
     background-color: #000!important;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
     position: static;
     margin-bottom: 150px;
     text-align: center;
