@@ -16,7 +16,7 @@
 
 		<div class="site-branding-text">
 			<?php if ( is_front_page() ) : ?>
-			<h2 class="hero-text">Welcome to Mid-Century Canberra! Here you will find information on well known architects and their contributions to Canberran architecture.</h2>	
+			<h2 class="hero-text">Welcome to the blog!<br>Andrew Campbell, u3174115<br>Faculty of Arts and Design, University of Canberra<br>11068 Cross-Cultural Strategies WIT 2019</h2>	
             <h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
 			<?php else : ?>
 				<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
